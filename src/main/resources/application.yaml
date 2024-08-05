@@ -7,7 +7,7 @@ spring:
 #      api-key: ${OPENAI_API_KEY}
   ai:
     mistralai:
-      api-key: 0hHTXceATJsqbvVT7cepXiexjRQHEhFc
+      api-key:
 #      embedding:
 #       options:
 #         model: text-embedding-3-small
